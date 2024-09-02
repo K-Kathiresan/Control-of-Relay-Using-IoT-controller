@@ -1,8 +1,7 @@
-# NAME: KATHIRESAN K
+#### NAME: KATHIRESAN K
+#### REG NO:21223110021
 
-# REG NO:21223110021
-
-# Control-of-Relay-Using-IoT-controller
+# EX-2: Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
